@@ -3,6 +3,7 @@ import { TanStackRouterDevtoolsPanel } from '@tanstack/react-router-devtools'
 import { TanStackDevtools } from '@tanstack/react-devtools'
 import Footer from '../components/Footer'
 import Header from '../components/Header'
+import data from '../data/portfolio.json'
 
 import appCss from '../styles.css?url'
 
@@ -19,7 +20,11 @@ export const Route = createRootRoute({
         content: 'width=device-width, initial-scale=1',
       },
       {
-        title: 'TanStack Start Starter',
+        title: data.meta.siteTitle,
+      },
+      {
+        name: 'description',
+        content: data.meta.siteDescription,
       },
     ],
     links: [

@@ -1,0 +1,194 @@
+{
+  "personal": {
+    "firstName": "Tanzid",
+    "fullName": "Tanzid Ahmed",
+    "title": "Full Stack Developer",
+    "tagline": "I build modern, scalable web applications.",
+    "bio": "I'm a passionate full-stack developer who loves turning ideas into reality through clean code and thoughtful design. I specialise in building performant web applications with React, TypeScript, and modern backend technologies.",
+    "email": "tanzid@example.com",
+    "phone": "+1 (555) 000-0000",
+    "location": "Dhaka, Bangladesh",
+    "avatarUrl": "",
+    "resumeUrl": "#"
+  },
+  "social": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/tanzid64",
+      "icon": "github"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/tanzid64",
+      "icon": "linkedin"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/tanzid64",
+      "icon": "twitter"
+    }
+  ],
+  "about": {
+    "description": "I'm a dedicated software engineer with a strong foundation in both front-end and back-end development. My journey started with a curiosity for how things work on the web, and it has since evolved into a professional career building impactful digital products.",
+    "highlights": [
+      "3+ years of professional development experience",
+      "Passionate about open-source contributions",
+      "Always learning new technologies and best practices",
+      "Strong focus on code quality and performance"
+    ],
+    "stats": [
+      { "label": "Projects Completed", "value": "30+" },
+      { "label": "Years Experience",   "value": "3+" },
+      { "label": "Happy Clients",      "value": "20+" },
+      { "label": "GitHub Stars",       "value": "100+" }
+    ]
+  },
+  "skills": [
+    {
+      "category": "Frontend",
+      "icon": "monitor",
+      "items": ["React", "TypeScript", "Next.js", "Tailwind CSS", "HTML5", "CSS3"]
+    },
+    {
+      "category": "Backend",
+      "icon": "server",
+      "items": ["Node.js", "Express", "Python", "Django", "REST APIs", "GraphQL"]
+    },
+    {
+      "category": "Database",
+      "icon": "database",
+      "items": ["PostgreSQL", "MongoDB", "MySQL", "Redis", "Prisma", "SQLite"]
+    },
+    {
+      "category": "DevOps & Tools",
+      "icon": "wrench",
+      "items": ["Docker", "Git", "CI/CD", "Linux", "Cloudflare", "Vercel"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Commerce Platform",
+      "description": "A full-featured e-commerce platform with real-time inventory management, payment integration, and an intuitive admin dashboard.",
+      "image": "",
+      "tags": ["React", "Node.js", "PostgreSQL", "Stripe"],
+      "liveUrl": "#",
+      "githubUrl": "https://github.com/tanzid64",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Task Management App",
+      "description": "A collaborative task management tool with drag-and-drop boards, real-time updates, and team collaboration features.",
+      "image": "",
+      "tags": ["Next.js", "TypeScript", "Prisma", "WebSockets"],
+      "liveUrl": "#",
+      "githubUrl": "https://github.com/tanzid64",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Weather Dashboard",
+      "description": "A beautiful weather dashboard that displays current conditions and forecasts using the OpenWeather API with interactive charts.",
+      "image": "",
+      "tags": ["React", "TypeScript", "Tailwind CSS", "REST API"],
+      "liveUrl": "#",
+      "githubUrl": "https://github.com/tanzid64",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "Blog CMS",
+      "description": "A headless CMS for managing blog content with a rich-text editor, SEO tools, and multi-author support.",
+      "image": "",
+      "tags": ["Next.js", "MongoDB", "GraphQL", "Cloudinary"],
+      "liveUrl": "#",
+      "githubUrl": "https://github.com/tanzid64",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "Chat Application",
+      "description": "A real-time chat application supporting private messaging, group channels, file sharing, and emoji reactions.",
+      "image": "",
+      "tags": ["React", "Socket.io", "Express", "Redis"],
+      "liveUrl": "#",
+      "githubUrl": "https://github.com/tanzid64",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "title": "Portfolio Builder",
+      "description": "A drag-and-drop portfolio builder that lets developers create beautiful portfolios without writing a single line of code.",
+      "image": "",
+      "tags": ["React", "TypeScript", "Tailwind CSS", "Vite"],
+      "liveUrl": "#",
+      "githubUrl": "https://github.com/tanzid64",
+      "featured": false
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "type": "work",
+      "role": "Full Stack Developer",
+      "company": "Tech Solutions Ltd.",
+      "location": "Dhaka, Bangladesh",
+      "period": "2023 – Present",
+      "description": "Building and maintaining client-facing web applications using React, Node.js, and PostgreSQL. Led the migration of a legacy monolith to a microservices architecture, reducing deployment time by 40%.",
+      "highlights": [
+        "Delivered 10+ production features",
+        "Reduced page load time by 35%",
+        "Mentored 2 junior developers"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "work",
+      "role": "Frontend Developer",
+      "company": "Creative Agency",
+      "location": "Remote",
+      "period": "2022 – 2023",
+      "description": "Developed pixel-perfect UI components and interactive animations for marketing websites. Collaborated closely with designers to translate Figma mockups into production-ready code.",
+      "highlights": [
+        "Built 15+ reusable component libraries",
+        "Improved Lighthouse score from 62 to 96",
+        "Shipped on tight deadlines consistently"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "education",
+      "role": "B.Sc. in Computer Science",
+      "company": "University of Dhaka",
+      "location": "Dhaka, Bangladesh",
+      "period": "2018 – 2022",
+      "description": "Studied algorithms, data structures, operating systems, and software engineering. Graduated with honours and completed a capstone project on distributed database systems.",
+      "highlights": [
+        "CGPA: 3.8 / 4.0",
+        "President of the CS Club",
+        "Best Final Year Project Award"
+      ]
+    }
+  ],
+  "contact": {
+    "heading": "Let's Work Together",
+    "subheading": "Have a project in mind or just want to say hi? My inbox is always open.",
+    "email": "tanzid@example.com",
+    "phone": "+1 (555) 000-0000",
+    "location": "Dhaka, Bangladesh"
+  },
+  "navigation": [
+    { "label": "Home",       "href": "#home" },
+    { "label": "About",      "href": "#about" },
+    { "label": "Skills",     "href": "#skills" },
+    { "label": "Projects",   "href": "#projects" },
+    { "label": "Experience", "href": "#experience" },
+    { "label": "Contact",    "href": "#contact" }
+  ],
+  "meta": {
+    "siteTitle": "Tanzid Ahmed – Full Stack Developer",
+    "siteDescription": "Portfolio of Tanzid Ahmed, a full-stack developer specialising in React, Node.js, and modern web technologies.",
+    "siteUrl": "https://tanzid64.dev"
+  }
+}
